@@ -1,0 +1,6 @@
+var:-1)declare a variable with out a value, after then we can assigin a value to a variable is possible.
+     2)re-declare a value to a variable  is possible.
+let:1)declare a variable with out value,after then we can assigin a value to a variable is possible .
+    2)re-declare a value to a variable  is not possible it thrown error.
+const:1)declare a variable with out a value,after then we can assigin a value to a variable is not possible it thrown error.
+     2)re-declare a value to a variable  is not possible error is thrown.
