@@ -1,0 +1,26 @@
+JavaScript Variables
+
+There are 3 ways to declare a JavaScript variable:
+Using var
+Using let
+Using const
+Variables:-
+Variables are containers for storing data (values).
+eg:-var x = 5;
+
+JavaScript Identifiers:-
+All JavaScript variables must be identified with unique names.
+These unique names are called identifiers.
+Identifiers can be short names (like x and y) or more descriptive names (age, sum,
+            totalVolume).
+Java script variables follow camel case conversion
+The general rules for constructing names for variables (unique identifiers) are:
+Names can contain letters, digits, underscores, and dollar signs.
+Names must begin with a letter
+Names can also begin with $ and _ (but we will not use it in this tutorial)
+Names are case sensitive (y and Y are different variables)
+Reserved words (like JavaScript keywords) cannot be used as names
+
+
+One Statement, Many Variables:-
+var person = "John Doe", carName = "Volvo", price = 200;
