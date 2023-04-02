@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>counter</h2>
+
+<p id="1">0</p>
+<button onclick=increment()>increment</button>
+<button onclick=increment()>decement</button>
+<button onclick=reset()>reset</button>
+<script>
+
+var counter=0
+
+function increment() {
+counter++;
+
+console.log(counter)
+}
+function decrement() {
+counter--;
+document.getElementById("p1").innerHTML = counter--;
+}
+function reset() {
+counter=0;
+
+console.log(counter)
+}
+</script>
+
+</body>
+</html>
